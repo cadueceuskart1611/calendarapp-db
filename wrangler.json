@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "calendarapp-db",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "03985c29-8ffd-4db8-a2ec-283addfd4239",
+			"database_name": "calendardb"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
